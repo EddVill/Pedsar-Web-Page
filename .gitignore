@@ -1,0 +1,9 @@
+node_modules
+.next
+db/
+dev.log
+.env
+skills/
+upload/
+*.node
+__pycache__
